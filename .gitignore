@@ -1,0 +1,4 @@
+*.o
+*.tcp
+*.udp
+Makefile
